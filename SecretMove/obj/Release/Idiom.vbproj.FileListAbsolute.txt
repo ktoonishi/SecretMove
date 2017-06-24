@@ -1,0 +1,11 @@
+C:\Users\kent\Documents\Visual Studio 2012\Projects\VB\SecretMove\SecretMove\bin\Release\SecretMove.exe.config
+C:\Users\kent\Documents\Visual Studio 2012\Projects\VB\SecretMove\SecretMove\obj\Release\SecretMove.exe
+C:\Users\kent\Documents\Visual Studio 2012\Projects\VB\SecretMove\SecretMove\obj\Release\SecretMove.xml
+C:\Users\kent\Documents\Visual Studio 2012\Projects\VB\SecretMove\SecretMove\obj\Release\SecretMove.pdb
+C:\Users\kent\Documents\Visual Studio 2012\Projects\VB\SecretMove\SecretMove\bin\Release\SecretMove.exe
+C:\Users\kent\Documents\Visual Studio 2012\Projects\VB\SecretMove\SecretMove\bin\Release\SecretMove.pdb
+C:\Users\kent\Documents\Visual Studio 2012\Projects\VB\SecretMove\SecretMove\bin\Release\SecretMove.xml
+C:\Users\kent\Documents\Visual Studio 2012\Projects\VB\SecretMove\SecretMove\obj\Release\SecretMove.frmCom.resources
+C:\Users\kent\Documents\Visual Studio 2012\Projects\VB\SecretMove\SecretMove\obj\Release\SecretMove.frmMain.resources
+C:\Users\kent\Documents\Visual Studio 2012\Projects\VB\SecretMove\SecretMove\obj\Release\SecretMove.Resources.resources
+C:\Users\kent\Documents\Visual Studio 2012\Projects\VB\SecretMove\SecretMove\obj\Release\Idiom.vbproj.GenerateResource.Cache
